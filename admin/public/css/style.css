@@ -1,0 +1,19 @@
+.wrapper-padding{
+padding: 1% 1% 1% 1% ;
+}
+.table-img{
+	width:60px;
+	height:auto;
+}
+.loading-icon{
+	width: 70px;
+	height: auto;
+}
+i.fas.fa-trash-alt {
+    cursor: pointer !important;
+}
+
+.modal-backdrop.fade.show {
+    z-index: 0;
+}
+
